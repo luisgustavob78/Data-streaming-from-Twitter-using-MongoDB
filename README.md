@@ -1,7 +1,7 @@
 # Data-streaming-from-Twitter-using-MongoDB
 
 ## Introduction
-A huge part of social network data is generated on Twitter. This media channel is a place where people express their opinions, ideologies and ideas. Looking at that, this social network can be an importa source of data to evaluate the society's behavior in face of public policies. In this project, we use tweets to analyze with machine learning the public opinion in Brazil about the new vaccine against coronavirus.
+A huge part of social network data is generated on Twitter. This media channel is a place where people express their opinions, ideologies and ideas. Looking at that, this social network can be an important source of data to evaluate the society's behavior in face of public policies. In this project, we use tweets to analyze with machine learning the public opinion in Brazil about the new vaccine against coronavirus.
 
 ## Connection with Twitter
 
