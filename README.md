@@ -41,3 +41,17 @@ To evaluate the sentiment of people on those tweets, i used a multibinomial Naiv
 ![](https://github.com/luisgustavob78/Data-streaming-from-Twitter-using-MongoDB/blob/main/training_results.gif)
 
 With a trained model, i made some predictions. The most tweets is neutral, but there are most positive comments about the vaccine in Brazil than negative.
+
+![](https://github.com/luisgustavob78/Data-streaming-from-Twitter-using-MongoDB/blob/main/results.png)
+
+## Installation
+
+All this code was ran at colab. The only installations needed there was:
+
+```
+pip install unidecode
+```
+
+```
+nltk.download('stopwords')
+```
