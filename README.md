@@ -28,7 +28,7 @@ With our two connections ready, we can collect our data in real-time. The scrapi
 
 ## Data Analysis
 
-Now that we have a clean data, we can run some analysis. To understand what people are talking about the coronavirus vaccine, we can look at the most used words and phrases:
+Now that we have a clean data, we can run some analysis. To understand what people are talking about the coronavirus vaccine, we can look at the most used words and phrases using 1-gram, 3-grams and 4-grams:
 
 ![](https://github.com/luisgustavob78/Data-streaming-from-Twitter-using-MongoDB/blob/main/data_analysis.gif)
 
